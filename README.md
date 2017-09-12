@@ -1,4 +1,4 @@
-# cvt_set
+# cvt_set - Abandoned(temporarily)
 This repository helps to add a display resolution in your PC/Notebook running linux.
 <center><font color="red"><h1>UNDER DEVELOPMENT</h1></font></center>
 How to use this program?
